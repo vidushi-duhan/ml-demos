@@ -1,6 +1,5 @@
 pandas
 scikit-learn
 streamlit
-ucimlrepo
 matplotlib
 joblib
